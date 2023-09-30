@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+    align-items: center;
+}
+
+.wireframe{
+    width:800px;
+    height:1000px;
+}
+
+.persona{
+    width:800px;
+    height:600px;
+}
